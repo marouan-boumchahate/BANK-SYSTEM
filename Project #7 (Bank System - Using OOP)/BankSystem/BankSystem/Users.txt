@@ -1,0 +1,7 @@
+admin|#|¸¿½º#|-1
+manager|#|¹···|#|320
+adder|#|¹··¸|#|19
+deleter|#|¹··¹|#|21
+updater|#|¹··º|#|25
+transacter|#|¹··»|#|176
+checker|#|¹··¼|#|256
